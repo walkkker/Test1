@@ -1,0 +1,1 @@
+All of the count (including the docid and term_position) starts from 0 instead of 1.
