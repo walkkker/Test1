@@ -1,4 +1,4 @@
-## Project Information
+# MSc Project
 
 ## Project Title
 ### Enhancing the EPCC OpenMP microbenchmark suite
